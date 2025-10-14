@@ -2,7 +2,7 @@ public class SumOfDigit {
 
 	public static void main(String[] args){
 
-		int number = 99999;
+		int number = 560;
 
 		int originalNumber = number;
 
